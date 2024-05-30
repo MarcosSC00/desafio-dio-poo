@@ -24,6 +24,6 @@ public void executarTelefone(String numero) {
   System.out.println("###############################");
 }
 ```
-Abaixo é exibido o diagrama UML do projeto em questão
+## Diagrama UML
 
-![](docs/desafio-UML.pdf)
+![imagem do diagrama uml](docs/diagrama-UML.png)
